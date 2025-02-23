@@ -5,7 +5,7 @@ body {
     background-color: #f4f4f9;
     display: flex;
     flex-direction: column;
-    min-height: 100vh; /* Ensures the page fills the entire screen */
+    min-height: 100vh;
 }
 
 
