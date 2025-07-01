@@ -1,6 +1,7 @@
 /* Basic CSS for the website */
-body {
+html, body {
     font-family: Arial, sans-serif;
+    height: 100%;
     margin: 0;
     padding: 0;
     background-color: #1A73E8;
@@ -54,8 +55,7 @@ section {
     flex: 1;
     padding: 10px;
     background-color:#F1F3F4;
-    height: 100%;
-    
+       
 }
 
 footer {
@@ -63,7 +63,7 @@ footer {
     background-color: #1A73E8;
     color: white;
     padding: 10px;
-    margin-top: 20px;
+    
 }
 footer p {
     margin: 0;
