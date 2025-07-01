@@ -35,6 +35,7 @@ header h1 {
 
 h2 {
     text-align: center;
+    text-decoration: underline;
 }
 nav ul {
     list-style-type: none;
