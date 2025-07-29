@@ -62,9 +62,13 @@ section {
     flex: 1;
     padding: 10px;
     background-color:#F1F3F4;
-    overflow-y: auto;
-    position: relative;   
+    overflow-y: auto;  
     border-radius: 2%;
+}
+
+.section-content {
+    position: relative;
+    min-height: 100%; /* ensure it's tall enough */
 }
 
 section ul {
